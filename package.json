@@ -1,0 +1,14 @@
+{
+	"name": "axios-unicloud",
+	"version": "0.0.3",
+	"description": "Request Blocker for uniCloud",
+	"main": "index.js",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://gitee.com/mouxangitee/axios-unicloud.git"
+	},
+	"dependencies": {
+		"axios": "^0.20.0"
+	}
+}
