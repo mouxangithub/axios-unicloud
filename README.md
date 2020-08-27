@@ -26,6 +26,9 @@ axios.get(url,{params}).then()
 使用[uniapp插件市场](https://ext.dcloud.net.cn/plugin?id=2637)导入插件
 
 ```
+因插件是基于axios进行封装的需另外安装axios
+npm install axios
+yarn add axios
 使用方法：
 import axios from '../js_sdk/mouxan-axios-unicloud'
 axios.get(url,{params}).then()
